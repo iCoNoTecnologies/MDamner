@@ -137,6 +137,10 @@
   },
   "defaultProject": "angular-free-demo",
   "cli": {
+<<<<<<< HEAD
     "analytics": "a6e60644-9fbe-4329-8a1f-85bcd8fdfabc"
+=======
+    "analytics": "4d8b3456-7175-4de7-8821-0f3b033de36b"
+>>>>>>> 48701ce6572defaae9d67b3822284268642ba95b
   }
 }
